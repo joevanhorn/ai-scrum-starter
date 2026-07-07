@@ -1,0 +1,17 @@
+# Secrets - never commit API keys or tokens
+.env
+.env.*
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Common build artifacts (people build their own projects in clones of this)
+node_modules/
+__pycache__/
+*.log
