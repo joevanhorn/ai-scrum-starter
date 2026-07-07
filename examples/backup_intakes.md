@@ -9,29 +9,33 @@ a dashboard"). When you fill in your own, aim for that.
 
 ---
 
-## Option A — Custom demo environment (Specialist)
+## Option A — Prospect demo script (Specialist)
+
+*Pairs with `context_A_demo_script.md` — the use-case catalog and sample
+prospect you'll assemble from.*
 
 **1. The problem, in one sentence.**
-Every prospect wants to see the product configured for *their* world, and
-building each bespoke demo by hand eats days I don't have.
+Every prospect needs a demo tailored to their identity challenges, and I
+rebuild the narrative from scratch each time even though I'm recombining the
+same core use-cases.
 
 **2. Who has this problem? (the persona)**
-A pre-sales Specialist running technical demos for prospects in regulated
-industries, each of whom wants to see their own data shapes and workflows
-before they'll believe it fits.
+An Okta pre-sales Specialist who runs tailored product demos — choosing which
+identity use-cases to show and weaving them into a story that lands for a given
+prospect's priorities.
 
 **3. The pain. (2-3 bullets)**
-- Each custom demo is 1-2 days of manual setup, so I cap how many
-  prospects I can actively support.
-- Demos built under time pressure are brittle and break live, in front of
-  the prospect.
-- I rebuild the same scaffolding from scratch every time instead of
-  reusing it.
+- I reassemble the same building-block use-cases (SSO, MFA, lifecycle,
+  governance) into a fresh narrative for every prospect, by hand.
+- Tailoring to a prospect's industry and priorities eats time, and I start
+  from a blank page instead of a known-good structure.
+- Demo scripts drift in quality and consistency across the team — everyone
+  builds their own.
 
 **4. What does "better" look like?**
-A Specialist can stand up a credible, prospect-flavored demo environment in
-an afternoon instead of two days, without rebuilding the scaffolding each
-time.
+A Specialist can turn a prospect profile into a coherent, tailored demo script
+— the right use-cases, in the right order, with the right talking points — in
+an hour instead of half a day, without starting from scratch.
 
 ---
 
